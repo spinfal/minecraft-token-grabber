@@ -2,6 +2,7 @@
 A simple way to gain access to a Minecraft account. No username/email/password needed.
 
 # Having issues?
+- Yeah I made this at 4am give me a break
 - Open an [issue](https://github.com/spinfal/minecraft-token-grabber/issues) with the Error code you're getting (if applicable).
 
 # How does this work?
