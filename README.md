@@ -1,3 +1,6 @@
+# Archived
+I will no longer maintain this code, and I believe that this does not work anymore or as well as it used to.
+
 # MCToken Grabber
 A simple way to gain access to a Minecraft account. No username/email/password needed.
 
